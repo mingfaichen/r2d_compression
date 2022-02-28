@@ -22,3 +22,9 @@ Our proposed framework is implemented based on *mbt2018* and *cheng2020-attn* pr
 
 <img src="https://github.com/mingfaichen/r2dcompression/blob/main/architecture/SPF.jpg" width="150px" />
 <!-- ![SPF](https://github.com/mingfaichen/r2dcompression/blob/main/architecture/SPF.jpg){:height="50%" width="50%"} -->
+
+## Experimental results
+
+<!-- We conduct experiments under compressed color image with two  -->
+<img src="https://github.com/mingfaichen/r2dcompression/blob/main/result/curve_high.jpg" />
+<img src="https://github.com/mingfaichen/r2dcompression/blob/main/result/high%20color%20rate.jpg" />
