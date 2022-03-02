@@ -28,7 +28,7 @@ Our proposed framework is implemented based on *mbt2018* and *cheng2020-attn* pr
 <!-- ![SPF](https://github.com/mingfaichen/r2dcompression/blob/main/architecture/SPF.jpg){:height="50%" width="50%"} -->
 
 ## Experimental results
-To better illustrate the capability of cross-modal redundancy extraction of our proposed SPF module. We conducted experiments with two quality levels of RGB images, defined as *High*  and *Low*. The corresponding PSNR and bpp of different levels for both backbones are shown at the following table:
+To better illustrate the roboustness of our proposed SPF module, we trained our proposed framework with two quality levels of RGB images, defined as *High*  and *Low*. The corresponding PSNR and bpp of different levels for both backbones are shown at the following table:
 
 *mbt2018*:
 
