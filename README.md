@@ -51,3 +51,7 @@ The experimental results are shown below:
 *Low*
 <img src="https://github.com/mingfaichen/r2dcompression/blob/main/result/curve_low.jpg" />
 <img src="https://github.com/mingfaichen/r2dcompression/blob/main/result/visualization_low.jpg" />
+
+## Test on SUN-RGBD dataset
+To verify the generalization of our method, we have made a test on the SUN-RGBD dataset, which contains the RGB-D data collected from four kinds of sensors, using models trained on the NYUv2 dataset. The inference results are shown below:
+<img src="https://github.com/mingfaichen/r2dcompression/blob/main/result/SUNRGBD_inference.jpg" />
